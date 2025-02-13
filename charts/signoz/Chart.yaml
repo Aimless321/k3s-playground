@@ -1,0 +1,7 @@
+name: signoz
+version: 1.0.0
+
+dependencies:
+  - name: signoz
+    repository: https://charts.signoz.io
+    version: 0.70.0
